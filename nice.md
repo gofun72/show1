@@ -34,8 +34,9 @@ youtube.com/NTDCHINESE
 facebook.com/NTDCHINESE
 4. 手机观看：
 iPhone与Android免费下载 iNTD
-<h1 align="center"><b>【新唐人独家播出】神韵交响乐团圣诞和新年音乐会</b></h1>
 <hr>
+<h1 align="center"><b>【新唐人独家播出】神韵交响乐团圣诞和新年音乐会</b></h1>
+
 【新唐人北京时间2017年12月21日讯】圣诞节及新年期间（12月24日至1月1日），新唐人电视台将独家播出神韵交响乐音乐会过去两年（2015年和2016年）巡演的节目。
 
 
