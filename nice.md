@@ -73,7 +73,7 @@ iPhone与Android免费下载 iNTD
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视PC版</a>   
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品.)</a> 
+    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
     
 <hr>
 <IMG SRC="img/red-979573-1-600x400.jpg" width=880><br>
