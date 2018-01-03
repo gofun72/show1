@@ -7,9 +7,23 @@
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视PC版</a>   
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
-    <h1 align="center"><b>新唐人直播预告：2018跨年缤纷夜</b></h1>
-<IMG SRC="img/DJY-600X400-1.jpg" width=880>
+    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 
+
+<a href="https://github.com/syshow/5tuan/blob/master/download/Shen%20Yun%202018%20Official%20Trailer%201%20-%20Rediscover%20the%20Power%20of%20Art.mp4?raw=true"><img src="img/sy2018.jpg" width=880></a>
+
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md"><img src="img/2018shenyun.jpg"></a></td>
+</tr>
+<tr>
+<td align="center">神韵艺术团是全球顶级中国古典舞与传统音乐艺术团。2006年成立于美国纽约，神韵艺术团云集了大批菁英艺术家，为恢复与弘扬中国传统文化艺术，不断缔造新的奇蹟与辉煌，倍受世人瞩目。</td>
+</tr>
+</tbody>
+</table> 
+
+<h1 align="center"><b>新唐人直播预告：2018跨年缤纷夜</b></h1>
+<IMG SRC="img/DJY-600X400-1.jpg" width=880>  
  
  【新唐人北京时间2017年12月24日讯】在2017年即将过去、2018年到来之际，新唐人电视台特别企划《2018跨年缤纷夜》直播特别节目，在2017年的最后一个夜晚，12月31日陪伴观众盘点年度大事件，欢欢喜喜迎新年。
 
@@ -39,7 +53,6 @@ iPhone与Android免费下载 iNTD
 
 【新唐人北京时间2017年12月21日讯】圣诞节及新年期间（12月24日至1月1日），新唐人电视台将独家播出神韵交响乐音乐会过去两年（2015年和2016年）巡演的节目。
 
-
 2015年神韵交响乐音乐会的首播时间（纽约时间）：12月24日（周日）早上9点半，重播时间为12月25日（周一）下午3点；2016年音乐会的首播时间（纽约时间）：12月31日（周日）晚上9点半，重播时间为2018年1月1日（周一）下午3点半；时长90分钟。各地播放时间请参看以下列表。
 
 <IMG SRC="img/p8597381a924093549.jpg" width=880>
@@ -55,14 +68,11 @@ iPhone与Android免费下载 iNTD
 2017神韵交响乐巡演预告片：<p>
  <A HREF="download/2017symusic.mp4?raw=true"><IMG SRC="img/2017-sy-01.jpg" width=447><a>
 
-
 2016年神韵交响乐巡演预告片：<br>
 <A HREF="download/Classical Chinese Music - Shen Yun Symphony Orchestra 2016 Trailer.mp4?raw=true"><IMG SRC="img/2016-sy-01.jpg" width=447><a>
 
-
 （责任编辑：明轩）
 <hr>
-
 
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
@@ -73,7 +83,7 @@ iPhone与Android免费下载 iNTD
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视PC版</a>   
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
-    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
+    - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
     
 <hr>
-<a href="http://114.37.26.246"><IMG SRC="img/red-979573-1-600x400.jpg" width=880></a><br>
+<a href="http://111.243.35.205"><IMG SRC="img/red-979573-1-600x400-0103.jpg" width=880><br>
