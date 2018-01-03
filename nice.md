@@ -17,7 +17,7 @@
 <td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md"><img src="img/2018shenyun.jpg"></a></td>
 </tr>
 <tr>
-<td align="center">神韵艺术团是全球顶级中国古典舞与传统音乐艺术团。2006年成立于美国纽约，神韵艺术团云集了大批菁英艺术家，为恢复与弘扬中国传统文化艺术，不断缔造新的奇蹟与辉煌，倍受世人瞩目。</td>
+<td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md">神韵艺术团是全球顶级中国古典舞与传统音乐艺术团。2006年成立于美国纽约，神韵艺术团云集了大批菁英艺术家，为恢复与弘扬中国传统文化艺术，不断缔造新的奇蹟与辉煌，倍受世人瞩目。</a></td>
 </tr>
 </tbody>
 </table> 
