@@ -86,4 +86,4 @@ iPhone与Android免费下载 iNTD
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
     
 <hr>
-<a href="http://111.243.35.205"><IMG SRC="img/red-979573-1-600x400-0103.jpg" width=880><br>
+<a href="http://114.37.26.102"><IMG SRC="img/red-979573-1-600x400-0103-2.jpg" width=880><br>
