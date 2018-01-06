@@ -9,12 +9,12 @@
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 
 
-<a href="https://github.com/syshow/5tuan/blob/master/download/Shen%20Yun%202018%20Official%20Trailer%201%20-%20Rediscover%20the%20Power%20of%20Art.mp4?raw=true"><img src="img/sy2018.jpg" width=880></a>
+<a href="http://118.161.48.86/sy"><img src="img/sy2018.jpg" width=880></a>
 
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md"><img src="img/2018shenyun.jpg"></a></td>
+<td align="center"><a href="http://118.161.48.86/sy"><img src="img/2018shenyun.jpg"></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md">神韵艺术团是全球顶级中国古典舞与传统音乐艺术团。2006年成立于美国纽约，神韵艺术团云集了大批菁英艺术家，为恢复与弘扬中国传统文化艺术，不断缔造新的奇蹟与辉煌，倍受世人瞩目。</a></td>
