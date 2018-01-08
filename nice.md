@@ -21,6 +21,7 @@
 </tr>
 </tbody>
 </table> 
+
 + <TD><b><a href='http://118.161.48.86/sy'>线上观赏与下载</a></b><td><br> 
 + <a href='http://118.161.48.86/mp4/news668/2016/02/syTechShow720.mp4'>【神韵艺术团中国古典舞技巧表演】720p</a>
 + <a href='http://118.161.48.86/mp4/news668/2016/02/syTechShow.mp4'>【神韵艺术团中国古典舞技巧表演】480p</a>
@@ -29,6 +30,7 @@
 + <a href='http://118.161.48.86/mp4/news668/2016/02/concat6680.mp4'>【神韵演出特别报导】《一》</a>
 + <a href='http://118.161.48.86/mp4/news668/2016/02/concat6681.mp4'>【神韵演出特别报导】《二》</a>
 + <a href='http://118.161.48.86/mp4/news668/2016/02/concat6682.mp4'>【神韵演出特别报导】《三》</a>
+    
 <hr>
 <h1 align="center"><b>新唐人直播预告：2018跨年缤纷夜</b></h1>
 <IMG SRC="img/DJY-600X400-1.jpg" width=880>  
