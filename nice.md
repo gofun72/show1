@@ -3,18 +3,18 @@
     - [桌机版17.04](https://github.com/no1show/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)  
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
-    - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_7.62_desktop.zip?raw=true'>桌机版7.62</a>
+    - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视PC版</a>   
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 
 
-<a href="http://118.161.48.86/sy"><img src="img/sy2018.jpg" width=880></a>
+<a href="http://114.43.33.190/sy"><img src="img/sy2018.jpg" width=880></a>
 
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><a href="http://118.161.48.86/sy"><img src="img/2018shenyun.jpg"></a></td>
+<td align="center"><a href="http://114.43.33.190/sy"><img src="img/2018shenyun.jpg"></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/syshow/5tuan/blob/master/5tuan.md">神韵艺术团是全球顶级中国古典舞与传统音乐艺术团。2006年成立于美国纽约，神韵艺术团云集了大批菁英艺术家，为恢复与弘扬中国传统文化艺术，不断缔造新的奇蹟与辉煌，倍受世人瞩目。</a></td>
@@ -22,17 +22,17 @@
 </tbody>
 </table> 
 
-+ <TD><b><a href='http://118.161.48.86/sy'>线上观赏与下载</a></b><td><br> 
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/syTechShow720.mp4'>【神韵艺术团中国古典舞技巧表演】720p</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/syTechShow.mp4'>【神韵艺术团中国古典舞技巧表演】480p</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/syMusic720.mp4'>【神韵音乐】720p</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/syMusic480.mp4'>【神韵音乐】480p</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/concat6680.mp4'>【神韵演出特别报导】《一》</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/concat6681.mp4'>【神韵演出特别报导】《二》</a>
-+ <a href='http://118.161.48.86/mp4/news668/2016/02/concat6682.mp4'>【神韵演出特别报导】《三》</a>
++ <TD><b><a href='http://114.43.33.190/sy'>线上观赏与下载</a></b><td><br> 
++ <a href='http://114.43.33.190/mp4/news668/2016/02/syTechShow720.mp4'>【神韵艺术团中国古典舞技巧表演】720p</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/syTechShow.mp4'>【神韵艺术团中国古典舞技巧表演】480p</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/syMusic720.mp4'>【神韵音乐】720p</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/syMusic480.mp4'>【神韵音乐】480p</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/concat6680.mp4'>【神韵演出特别报导】《一》</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/concat6681.mp4'>【神韵演出特别报导】《二》</a>
++ <a href='http://114.43.33.190/mp4/news668/2016/02/concat6682.mp4'>【神韵演出特别报导】《三》</a>
 
 <hr>
-<a href="http://118.161.48.86"><IMG SRC="img/red-979573-1-600x400-0106-1.jpg" width=880><br>
+<a href="http://114.43.33.190"><IMG SRC="img/red-979573-1-600x400-0106-1.jpg" width=880><br>
     
 <hr>
 <h1 align="center"><b>新唐人直播预告：2018跨年缤纷夜</b></h1>
@@ -92,7 +92,7 @@ iPhone与Android免费下载 iNTD
     - [桌机版17.04](https://github.com/no1show/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)  
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
-    - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_7.62_desktop.zip?raw=true'>桌机版7.62</a>
+    - <a href='https://github.com/no1show/show1/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true'>桌机版7.64版（1月9日)</a>
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'>爱博电视PC版</a>   
 + <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/no1show/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
