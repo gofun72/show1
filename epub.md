@@ -37,7 +37,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <h3>1、Adobe Digital Editions (ADE)</h3>
 
-下载页面：<a href="http://www.adobe.com/solutions/ebook/digital-editions/download.htm" target="_blank" target="_blank">http://www.adobe.com/solutions/ebook/digital-editions/download.htm</a>l<br><br>
+下载页面：<a href="http://www.adobe.com/solutions/ebook/digital-editions/download.htm" target="_blank" target="_blank">http://www.adobe.com/solutions/ebook/digital-editions/download.htm</a>l<br>
 
 <h3>2、Kindle预览器(186MB)：</h3>
 
