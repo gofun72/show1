@@ -17,21 +17,21 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <span class="blackCircle">●</span>有些型号的安卓手机和平板电脑已预装了其它阅读器，比如“掌阅iReader” 、“掌上书苑”等。<p></p>
 
-<span class="blackCircle">●</span>不同的软件中，可以自行设定字体大小，一些快捷方式可以快速定位目录等功能。<br><br>
+<span class="blackCircle">●</span>不同的软件中，可以自行设定字体大小，一些快捷方式可以快速定位目录等功能。<br>
 
 <h2>二、电脑上网络浏览器中打开方法</h2>
 
 <h3>1、火狐浏览器的附加组件“EPUBReader”</h3>
 
-安装方法：在火狐浏览器的附加组件窗口中，搜索“epub”，会找到<a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">“EPUBReader”</a>。安装后可以在Firefox中阅读ePub档案，不再需要额外的软件。<br><br>
+安装方法：在火狐浏览器的附加组件窗口中，搜索“epub”，会找到<a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">“EPUBReader”</a>。安装后可以在Firefox中阅读ePub档案，不再需要额外的软件。<br>
 
-阅读电子书方法：用火狐浏览器的菜单【文件/打开文件】，或者把电子书拖拽到火狐浏览器的窗口中。<br><br>
+阅读电子书方法：用火狐浏览器的菜单【文件/打开文件】，或者把电子书拖拽到火狐浏览器的窗口中。<br>
 
 <h3>2、Chrome浏览器的电子书阅读器扩展程序<a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl" target="_blank">“Readium”</a></h3>
 
-安装方法：点击右上角菜单按钮/更多工具/扩展程序，点击页面中的链接，進入“Chrome网上应用店”，搜索“Readium”，然后点击“+添加至CHROME”。<br><br>
+安装方法：点击右上角菜单按钮/更多工具/扩展程序，点击页面中的链接，進入“Chrome网上应用店”，搜索“Readium”，然后点击“+添加至CHROME”。<br>
 
-使用方法：点击工具栏中“应用”，再点击“Readium”進入后，添加电子书阅读。<br><br>
+使用方法：点击工具栏中“应用”，再点击“Readium”進入后，添加电子书阅读。<br>
 
 <h2>三、其它阅读软件</h2>
 
@@ -41,16 +41,15 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <h3>2、Kindle预览器(186MB)：</h3>
 
-直接下载：<a href="http://kindlepreviewer.s3.amazonaws.com/KindlePreviewerInstall.exe" target="_blank">http://kindlepreviewer.s3.amazonaws.com/KindlePreviewerInstall.exe</a><br><br>
+直接下载：<a href="http://kindlepreviewer.s3.amazonaws.com/KindlePreviewerInstall.exe" target="_blank">http://kindlepreviewer.s3.amazonaws.com/KindlePreviewerInstall.exe</a><br>
 
 <h3>3、Sony Reader for PC</h3>
 
-下载页面：<a href="www.sony.com.au/support/download/469196" target="_blank">www.sony.com.au/support/download/469196</a><br><br>
+下载页面：<a href="www.sony.com.au/support/download/469196" target="_blank">www.sony.com.au/support/download/469196</a><br>
 
 <h3>4、Bluefire Reader for Windows/iOS/Android</h3>
 
-直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
-
+直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br>
 
 <h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
@@ -60,43 +59,53 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/9ping.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
 <tr>
 	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/9ping.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/gb3344/show1/blob/master/download/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
 </tr>
 <tr>
 	<td>解體黨文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/jtdwh-2.0-20180107.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>江泽民其人</td>
-	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/fytdx-2.0-20161012.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/whytd.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MRO-2.0-20161003.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/lawyer.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第675期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第674期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第673期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
 </tr>
 </table>
  </body>
