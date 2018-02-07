@@ -18,11 +18,7 @@
 
 无界一点通下载地址：
 
-<a href="https://github.com/gb3344/show1/blob/master/free.md"><img src="img/U4.1.jpg"></a>
-
-https://s3.amazonaws.com/wujie/um.apk
-
-https://git.io/v6836
+<a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="img/U4.1.jpg"></a>
 
 将下载的um.apk文件拷贝到手机SD卡（或内置SD卡）上。
 
