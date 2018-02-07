@@ -2,20 +2,20 @@
 
 <table  width="800">
 <tr>
-	<td><img src="img/U4.1.jpg" width="455"></td>
-	<td><img src="img/U17.04.jpg"  width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="img/U4.1.jpg" width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><img src="img/U17.04.jpg"  width="455"></td>
 </tr>
 <tr>
-<td><img src="img/U1.0.8jpg.jpg" width="455"></td>
-<td><img src="img/f7.64-1.jpg"  width="455"></td>
+<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/u108.apk?raw=true"><img src="img/U1.0.8jpg.jpg" width="455"></td>
+<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="img/f7.64-1.jpg"  width="455"></td>
 </tr>
 <tr>
-	<td><img src="img/f32-1.jpg" width="455"></td>
-	<td><img src="img/ipponews.jpg"  width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="img/f32-1.jpg" width="455"></td>
+	<td><a href=""><img src="img/ipponews.jpg"  width="455"></td>
 </tr>
 <tr>
-	<td><img src="img/iNTD_TVsp1.jpg" width="455"></td>
-	<td><img src="img/0944c.jpg"  width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><img src="img/iNTD_TVsp1.jpg" width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'<img src="img/0944c.jpg"  width="455"></td>
 </tr>
 </table>
 <hr>
