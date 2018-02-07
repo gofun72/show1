@@ -30,7 +30,7 @@
 2。将下载的um.apk文件拷贝到手机SD卡（或内置SD卡）上。如果下载的为压缩文件, 无须解压, 直接将文件扩展名 .zip 更改为 .apk 。
 在安卓手机上点击um.apk文件便可安装。如与已经安装的无界一点通旧版有冲突,请先卸载旧版, 再安装新版。
 
-3。详细说明见网址： 《网址》m.wujieliulan.com/userguide.html 《网址》
+3。详细说明见网址： 《网址》<a href="img/U-4.1-fqReadme.gif?raw=true">m.wujieliulan.com/userguide.html </a>《网址》
 
 4。 注意事项： 
 建议使用无界一点通自带的浏览器。如果在VPN模式下使用其他浏览器（而不是无界一点通自带的浏览器），
