@@ -90,7 +90,7 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 <h1 align="center"><b>爱博电视PC版-iPPOTV Ver.12（0944C）</b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4),这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
 绿色版爱博电视 Ver.12（0944c）主要对安装程序做了改进，安装软件即便是在光 盘上依然可以双击和安装。0944c还可以分辨不同网络状态，有利于更流畅播放。 
 
