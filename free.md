@@ -76,7 +76,7 @@ iNTD TV ver. 2.1.12 有以下两个apk，安装和使用说明如下。
 
 iNTD_TVsp1.apk (簡易下载链接：bit.ly/2lkajC7)
 iNTD_TV_2.1.12sp1.apk
-MD5: 57EC8A549A91614A3E7820BA8D883D5B
+MD5: 57EC8A549A91614A3E7820BA8D883D5B<br>
 SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 新唐人安卓版iNTD TV可以用于安卓机顶盒，平板电脑，和手机。中国大陆用户也可以通过安卓产品直接收看新唐人。有Android 产品的用户可以到Google Play免费下载安装iNTD TV。
@@ -90,7 +90,7 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 <h1 align="center"><b>爱博电视PC版-iPPOTV Ver.12（0944C）</b></h1>
 
-<a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4),这是桌机版的软件，在桌机上全频观看会更清楚。</a>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4),这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
 绿色版爱博电视 Ver.12（0944c）主要对安装程序做了改进，安装软件即便是在光 盘上依然可以双击和安装。0944c还可以分辨不同网络状态，有利于更流畅播放。 
 
@@ -111,6 +111,6 @@ win7以上是 C:\Users\Public\Documents\iPPOTV
 
 需要最新版本的爱博电视软件，可通过动态网、无界等翻墙软件登录爱博电视网站 www.starp2p.com下载;或发封电子邮件给ippotv2011@gmail.com，主题为1234，十分钟左右即可收到回复。 如有技术问题，可发邮件给： support@starp2p.com 
 
-MD5:06ec9c7e71f92f19b4a4703abd63c563
+MD5:06ec9c7e71f92f19b4a4703abd63c563<br>
 SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
