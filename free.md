@@ -63,7 +63,7 @@ b.请使用其浏览器的“隐私模式”， 或退出无界一点通之后�
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">手机上好看的电子书（ePub版）！！手机、电脑打开方法，请看这里！</a></b></h1>
+■ <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">手机上好看的电子书（ePub版）！！手机、电脑打开方法，请看这里！</a></b></h1>
 <hr>
 
 <h1 align="center"><b>新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</b></h1>
