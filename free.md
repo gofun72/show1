@@ -63,7 +63,27 @@ b.请使用其浏览器的“隐私模式”， 或退出无界一点通之后�
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">手机上好看的电子书（ePub版）！！手机、電腦打開方法，請看這裡！</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">手机上好看的电子书（ePub版）！！手机、电脑打开方法，请看这里！</a></b></h1>
 <hr>
 
 <h1 align="center"><b>新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</b></h1>
+
+iNTD TV ver. 2.1.12 有以下两个apk，安装和使用说明如下。
+
+（1）iNTD_TV.apk：海外用户使用该apk，大陆用户如果没有程序被自动删除问题，可以用该apk
+（2）iNTD_TVsp1.apk：适合用于程序被自动删除或隐藏的国产机顶盒等。该apk安装后，呈现的名字是 tv2.1.12sp1。该程序的命名规则为： tvX.X.XXspY, X 是版本号，Y是第几个sp版。例如，以后有新版发布，自动升级后呈现的名字 tv2.1.13sp1.apk
+注：升级新版后，旧版的 tvX.X.XXspY 不会被自动删除，需要用户手动删除。
+
+iNTD_TVsp1.apk (簡易下载链接：bit.ly/2lkajC7)
+iNTD_TV_2.1.12sp1.apk
+MD5: 57EC8A549A91614A3E7820BA8D883D5B
+SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
+
+新唐人安卓版iNTD TV可以用于安卓机顶盒，平板电脑，和手机。中国大陆用户也可以通过安卓产品直接收看新唐人。有Android 产品的用户可以到Google Play免费下载安装iNTD TV。
+
+中国大陆用户可通过翻墙软件登录 iPPOTV.com 下载, 下载链接：http://ippotv.com/downloads/iNTD_TV.apk 和 http://ippotv.com/downloads/iNTD_TVsp1.apk
+或给 intd.1234@gmail.com 发一封电子邮件，主题为1234 (目前无法发送到QQ邮箱)。几分钟后即可收到 iNTD_TV.apk 和 iNTD_TVsp1.apk
+
+注：iNTD TV只能用于Android 3.0以上操作系统，在Android 2.X 操作系统系统上可能不能正常运行。
+
+<hr>
