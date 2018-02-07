@@ -9,8 +9,8 @@
 
 
 <h3>观赏神韵特别特别推荐这款<a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
-
-<b>歡迎了解 神韻</b>
+<p>
+<b><li>歡迎了解 神韻</b>
 <li> 神韻藝術團官網 https://zh-tw.shenyunperformingarts.org/ (透过翻墙软件 才能观看此网址) 
 <h1>【神韵2018世界巡演预告片】<h1>
 <img src="img/sy-IP-orange-0205.jpg">
