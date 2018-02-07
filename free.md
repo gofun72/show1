@@ -61,6 +61,6 @@ b.请使用其浏览器的“隐私模式”， 或退出无界一点通之后�
 
 <hr>
 
-<h1 align="center"><b>更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
 <hr>
