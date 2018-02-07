@@ -11,7 +11,7 @@
 </tr>
 <tr>
 	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="img/f32-1.jpg" width="455"></td>
-	<td><a href=""><img src="img/ipponews.jpg"  width="455"></td>
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iPPONews.exe?raw=true"><img src="img/ipponews.jpg"  width="455"></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><img src="img/iNTD_TVsp1.jpg" width="455"></td>
