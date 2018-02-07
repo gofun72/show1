@@ -17,7 +17,9 @@
 	<td><img src="img/iNTD_TVsp1.jpg" width="455"></td>
 	<td><img src="img/0944c.jpg"  width="455"></td>
 </tr>
+</table>
 <hr>
+	
 <h1 align="center"><b>无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。</b></h1>
 
 安装"无界一点通"测试版：
