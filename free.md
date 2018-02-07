@@ -11,5 +11,5 @@
 </tr>
 <tr>
 	<td><img src="img/f32-1.jpg" width="455"></td>
-	<td><img src="img/U17.04.jpg"  width="455"></td>
+	<td><img src="img/f7.64-1.jpg"  width="455"></td>
 </tr>
