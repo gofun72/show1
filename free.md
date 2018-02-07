@@ -13,3 +13,7 @@
 	<td><img src="img/f32-1.jpg" width="455"></td>
 	<td><img src="img/f7.64-1.jpg"  width="455"></td>
 </tr>
+<tr>
+	<td><img src="img/iNTD_TVsp1.jpg" width="455"></td>
+	<td><img src="img/iPPONews.exe"  width="455"></td>
+</tr>
