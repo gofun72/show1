@@ -15,7 +15,7 @@
 </tr>
 <tr>
 	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><img src="img/iNTD_TVsp1.jpg" width="455"></td>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true'><img src="img/0944c.jpg" width="455"></td>  
+	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true"><img src="img/0944c.jpg" width="455"></td>  
 </tr>
 </table>
 <hr>
