@@ -86,7 +86,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true">"无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true">"无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。(下载)</a></b></h1>
 
 sha256: 4918b2889fc97a96e0e386bd2112f6ec075f4912dc1d8d5a9c54e7e6f121b32a<br>
 md5: 1ef1b1bff93e66533f19283c09291e34
@@ -243,7 +243,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
   </div>
 
 <hr>
-<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明</a></b></h1>
+<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明(下载)</a></b></h1>
 
   <p>以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
 
@@ -478,7 +478,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true">自由门软件(手机版)说明</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/fgma.apk?raw=true">自由门软件(手机版)说明(下载)</a></b></h1>
 
 <b>说明:</b>
 
@@ -495,7 +495,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true">自由门软件(桌机版)使用说明书</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/fg764p.zip?raw=true">自由门软件(桌机版)使用说明书(下载)</a></b></h1>
 
 <p>自由门高级版：最新一代技术，突破封锁能力最强。需要管理员权限，个别网络环境不能使用。其它与专业版相似。</p>
 <p>自由门专业版：历史最久，使用人数最多。自由门会自动设置IE代理。如果使用其它浏览器（火狐浏览器），请自行设置浏览器的代理服务器(127.0.0.1:8580)后浏览。</p>
