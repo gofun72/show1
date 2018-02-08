@@ -19,7 +19,7 @@
 </tr>
 </table>
 <hr>
-<h1 align="center"><b>爱博电视PC版-iPPOTV Ver.12（0944C）</b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true">>爱博电视PC版-iPPOTV Ver.12（0944C）</a></b></h1>
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
