@@ -243,6 +243,11 @@ md5: 1ef1b1bff93e66533f19283c09291e34
   </div>
 
 <hr>
+
+<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/ios.md">IOS（iPhone,iPad)如何翻墙？目前没有正式的版本，这里堤供〝无界中文技术支持区″的反馈仅供参考！</h1>
+
+<hr>
+
 <h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明(下载)</a></b></h1>
 
   <p>以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
