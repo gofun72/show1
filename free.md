@@ -1,46 +1,46 @@
 <IMG SRC="img/free-2.png" width=880><br>
 
  <div align="center">
-   <h1>突破封锁看世界 翻墙请先下软件</h1>
+   <h1><b>突破封锁看世界 翻墙请先下软件</b></h1>
    <table class="fangqian">
       <tbody><b>
-        <tr><b>
+        <tr>
           <td width="230"></td>
           <td width="330">
-            安卓
+            <b>安卓</b>
           </td>
           <td width="330">
-            桌机
+            <b>桌机</b></b>
           </td>
         </tr>
         <tr>
           <td>
-            自由门
+            <b>自由门</b></b>
           </td>
           <td>
-            <a href="https://git.io/fgma">安卓版</a>
+            <a href="https://git.io/fgma"><b>安卓版</b></a>
           </td>
          <td>
-            <a href="https://git.io/fgm">专业版</a>
+            <a href="https://git.io/fgm"><b>专业版</b></a>
           </td>
         </tr>
         <tr>
           <td>
             无界
           </td><td>
-            <a href="https://git.io/v6836">无界一点通</a>
+            <a href="https://git.io/v6836"><b>无界一点通</b></a>
           </td>
          <td>
-            <a href="https://git.io/vEJlj">无界浏览</a>
+            <a href="https://git.io/vEJlj"><b>无界浏览</b></a>
           </td>
         </tr>
        <tr>
           <td>
-            爱博
+            <b>爱博
           </td>
          <td></td>
           <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">爱博电视</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
           </td>
         </tr>
        <tr>
@@ -48,16 +48,14 @@
             iNTDTV
           </td>
           <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true">iNTDTV</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
           </td>
           <td><//td>
-        </tr></b>
+        </tr>
       </tbody>
     </table>
   </div>
-
-
-
+ 
 <table  width="800">
 <tr>
 	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="img/U4.1.jpg" width="455"></td>
