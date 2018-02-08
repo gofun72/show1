@@ -86,7 +86,17 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true">无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true">无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。</a></b></h1>
+
+sha256: 4918b2889fc97a96e0e386bd2112f6ec075f4912dc1d8d5a9c54e7e6f121b32a<br>
+md5: 1ef1b1bff93e66533f19283c09291e34
+
+＊＊＊＊＊＊＊＊＊＊
+<b>无界一点通4.2做了以下改进：</b>
+
+1.允许用户在启动时切换VPN/代理模式(正在连通或连接失败时，按返回键)；<br>
+2.加强代理模式安全性；<br>
+3.修复蓝牙发送应用的问题。
 
   <h3><b>无界一点通使用说明</b></h3>
 
@@ -147,7 +157,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
   <h3><b>三. 使用说明</b></h3>
 
-  <h4 id="sigil_toc_id_11">(一)“无界一点通”运行模式</b></h4>
+  <h4>(一)“无界一点通”运行模式</b></h4>
 
   <p>“无界一点通”有两种运行模式： VPN模式和代理模式。</p>
 
