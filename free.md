@@ -463,7 +463,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true">自由门软件(手机版)说明</a></b></h1>
 
-<b>说明:</br>
+<b>说明:</b>
 
 1. 安装准备工作:</br>
 安装此apk程序前需要首先对手机进行设置: 打开“菜单键”-settings（设置）-Applications（应用程序）, 钩选"Unknown sources"（未知源）.
