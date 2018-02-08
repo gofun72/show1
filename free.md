@@ -18,63 +18,46 @@
             <b>自由门</b></b>
           </td>
           <td>
-            <a href="https://git.io/fgma"><b>安卓版</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/fgma.apk?raw=true"><b>安卓版</b></a>
           </td>
          <td>
-            <a href="https://git.io/fgm"><b>专业版</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/fg764p.zip?raw=true"><b>专业版</b></a>
           </td>
         </tr>
         <tr>
           <td>
-            无界
+            <b>无界</b>
           </td><td>
-            <a href="https://git.io/v6836"><b>无界一点通</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true"><b>无界一点通</b></a>
           </td>
          <td>
-            <a href="https://git.io/vEJlj"><b>无界浏览</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/u.zip?raw=true"><b>无界浏览</b></a>
           </td>
         </tr>
        <tr>
           <td>
-            <b>爱博
+            <b>爱博</b>
           </td>
          <td></td>
           <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
           </td>
         </tr>
        <tr>
           <td>
-            iNTDTV
+           <b> iNTDTV</b>
           </td>
           <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
+            <a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
           </td>
           <td><//td>
         </tr>
       </tbody>
     </table>
   </div>
- 
-<table  width="800">
-<tr>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="img/U4.1.jpg" width="455"></td>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><img src="img/U17.04.jpg"  width="455"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/u108.apk?raw=true"><img src="img/U1.0.8jpg.jpg" width="455"></td>
-<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="img/f7.64-1.jpg"  width="455"></td>
-</tr>
-<tr>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="img/f32-1.jpg" width="455"></td>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iPPONews.exe?raw=true"><img src="img/ipponews.jpg"  width="455"></td>
-</tr>
-<tr>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><img src="img/iNTD_TVsp1.jpg" width="455"></td>
-	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true"><img src="img/0944c.jpg" width="455"></td>  
-</tr>
-</table>
+  
 <hr>
+
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true">爱博电视PC版-iPPOTV Ver.12（0944C）</a></b></h1>
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
