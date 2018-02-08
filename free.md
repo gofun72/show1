@@ -226,7 +226,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
   </div>
 
 <hr>
-<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明</a></h1>
+<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明</a></b></h1>
 
   <p>以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
 
