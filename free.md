@@ -187,7 +187,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
   </div>
 
 <hr>
-<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true">><b>无界浏览使用说明</a></h1>
+<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明</a></h1>
 
   <p>以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
 
@@ -295,11 +295,11 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
   <p>无界浏览运行过程中用户界面（见图二）一直显示在电脑桌面上。用户可以按最右上方的缩小键使用户界面缩小到桌面的右下方任务盘内（图四）。以下是各键说明：</p>
 
   <ul>
-    <li><p><span class="h3Minghui"> </span> "打开主页"：一般无界网络主页在无界浏览启动时会自动打开（见图五）。如果无界网络主页被关闭，可以点击此键重新打开无界网络主页。</p></li>
-    <li><p><span class="h3Minghui">  </span> "重新搜索"：如果当前服务器太慢，可点击此键重新搜索服务器。</p></li>
-    <li><p><span class="h3Minghui"> </span> "高级设置"：点击此键将跳出高级设置窗口（见图八），提供有特殊需要的用户清理上网历史和代理设置的选项，一般用户可以使用无界浏览的缺省设置，不需要进行这个设置。参见7.高级设置。</p></li>
-    <li><p class="p1"><span class="h3Minghui">  </span> "帮助"：点击此键将跳出一个IE窗口显示无界浏览的使用帮助说明。</p></li>
-    <li><p class="p1"><span class="h3Minghui">  </span> "退出"：点击此键将停止无界浏览运行。无界浏览执行一系列停止运行前所需要的任务，包括清理历史，还原系统设定等等，然后停止无界浏览程序。参见5.退出无界浏览程序。用户如果点击界面最右上方的取消键也可以停止无界浏览运行。</p></li>
+    <li><p> "打开主页"：一般无界网络主页在无界浏览启动时会自动打开（见图五）。如果无界网络主页被关闭，可以点击此键重新打开无界网络主页。</p></li>
+    <li><p>  "重新搜索"：如果当前服务器太慢，可点击此键重新搜索服务器。</p></li>
+    <li><p> "高级设置"：点击此键将跳出高级设置窗口（见图八），提供有特殊需要的用户清理上网历史和代理设置的选项，一般用户可以使用无界浏览的缺省设置，不需要进行这个设置。参见7.高级设置。</p></li>
+    <li><p class="p1">  "帮助"：点击此键将跳出一个IE窗口显示无界浏览的使用帮助说明。</p></li>
+    <li><p class="p1">  "退出"：点击此键将停止无界浏览运行。无界浏览执行一系列停止运行前所需要的任务，包括清理历史，还原系统设定等等，然后停止无界浏览程序。参见5.退出无界浏览程序。用户如果点击界面最右上方的取消键也可以停止无界浏览运行。</p></li>
   </ul>
 
   <h4>7. 高级设置</h4>
@@ -315,13 +315,13 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
   <p>无界浏览缺省设置是为一般用户设定的比较安全的设置。有特殊需要的用户可以通过高级设置（见图七）改变这些设置以决定是否删除历史，删除Cookie, 使用除无界浏览再加上其他的代理等。以下是各键说明：</p>
 
   <ul>
-    <li><p><span class="h3Minghui"> </span> "删除Cookie "：点击此键就可以立即删除所有Cookie 。</p></li>
-    <li><p><span class="h3Minghui">  </span> "删除历史记录"：点击此键就可以立即删除所有上网历史记录。</p></li>
-    <li><p><span class="h3Minghui">  </span> "程序启动时自动启动IE"：如果选这一选项， 无界浏览开始运行时自动启动微软网络浏览器IE并打开无界网络首页。如果不选这一选项，无界浏览开始运行但不自动打开IE和任何网页，也不改变其他页面。</p></li>
-    <li><p><span class="h3Minghui">  </span> "程序退出时自动删除Cookie "： 无界浏览退出时自动删除Cookie。这是缺省设置，用户如果不需删除Cookie可不选这一选项。</p></li>
-    <li><p><span class="h3Minghui">  </span> "程序退出时自动清除历史"： 如果选这一选项，无界浏览退出时会自动删除历史。这是缺省设置，用户如果不需删除历史历史可不选这一选项。</p></li>
-    <li><p class="p1"><span class="h3Minghui">  </span> "程序退出时自动关闭IE"：如果选这一选项， 无界浏览退出时自动关闭微软网络浏览器IE和所有的网页。如果不选这一选项，无界浏览退出时保留已经打开的IE和相关网页。这时请用户注意安全，手动清理关闭有关网页，以免被网警发现。</p></li>
-    <li><p><span class="h3Minghui">  </span> "代理设置"：点击此键进入代理设置窗口请参见代理设置（图八）。</p></li>
+    <li><p> "删除Cookie "：点击此键就可以立即删除所有Cookie 。</p></li>
+    <li><p>  "删除历史记录"：点击此键就可以立即删除所有上网历史记录。</p></li>
+    <li><p>  "程序启动时自动启动IE"：如果选这一选项， 无界浏览开始运行时自动启动微软网络浏览器IE并打开无界网络首页。如果不选这一选项，无界浏览开始运行但不自动打开IE和任何网页，也不改变其他页面。</p></li>
+    <li><p>  "程序退出时自动删除Cookie "： 无界浏览退出时自动删除Cookie。这是缺省设置，用户如果不需删除Cookie可不选这一选项。</p></li>
+    <li><p>  "程序退出时自动清除历史"： 如果选这一选项，无界浏览退出时会自动删除历史。这是缺省设置，用户如果不需删除历史历史可不选这一选项。</p></li>
+    <li><p class="p1">  "程序退出时自动关闭IE"：如果选这一选项， 无界浏览退出时自动关闭微软网络浏览器IE和所有的网页。如果不选这一选项，无界浏览退出时保留已经打开的IE和相关网页。这时请用户注意安全，手动清理关闭有关网页，以免被网警发现。</p></li>
+    <li><p>  "代理设置"：点击此键进入代理设置窗口请参见代理设置（图八）。</p></li>
   </ul>
 
   <h4>8. 代理设置</h4>
@@ -420,8 +420,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 <p>现在无界网络公司成功推出无界浏览，加强了全透明超高强度加密的代理技术，更进一步实现遍布全球的无界代理网络，从技术创新到产品质量都得到了完善，标志了突破网络封锁技术的改朝换代。</p>
 <p class="p1">以用户的安全与使用方便为第一，无界网络公司始终在突破网络封锁技术上超前一步。</p>
 
-<!--===============================================  -->
-
+<hr>
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/zi_you_men_android_3.2.zip?raw=true">自由门软件(手机版)说明</a></b></h1>
 
@@ -510,17 +509,21 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <hr>
 
-<h1 align="center"><b>新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</b></h1>
 
 iNTD TV ver. 2.1.12 有以下两个apk，安装和使用说明如下。
 
-（1）iNTD_TV.apk：海外用户使用该apk，大陆用户如果没有程序被自动删除问题，可以用该apk
-（2）iNTD_TVsp1.apk：适合用于程序被自动删除或隐藏的国产机顶盒等。该apk安装后，呈现的名字是 tv2.1.12sp1。该程序的命名规则为： tvX.X.XXspY, X 是版本号，Y是第几个sp版。例如，以后有新版发布，自动升级后呈现的名字 tv2.1.13sp1.apk
+（1）<a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TV.apk?raw=true">iNTD_TV.apk：海外用户使用该apk，大陆用户如果没有程序被自动删除问题，可以用该apk
+
+（2）<a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">iNTD_TVsp1.apk</a>：适合用于程序被自动删除或隐藏的国产机顶盒等。该apk安装后，呈现的名字是 tv2.1.12sp1。该程序的命名规则为： tvX.X.XXspY, X 是版本号，Y是第几个sp版。例如，以后有新版发布，自动升级后呈现的名字 tv2.1.13sp1.apk
 注：升级新版后，旧版的 tvX.X.XXspY 不会被自动删除，需要用户手动删除。
 
 iNTD_TVsp1.apk (簡易下载链接：bit.ly/2lkajC7)
+
 iNTD_TV_2.1.12sp1.apk
+
 MD5: 57EC8A549A91614A3E7820BA8D883D5B<br>
+
 SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 新唐人安卓版iNTD TV可以用于安卓机顶盒，平板电脑，和手机。中国大陆用户也可以通过安卓产品直接收看新唐人。有Android 产品的用户可以到Google Play免费下载安装iNTD TV。
@@ -530,15 +533,24 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 注：iNTD TV只能用于Android 3.0以上操作系统，在Android 2.X 操作系统系统上可能不能正常运行。
 
-</b>
 <hr>
 
-
-
-
-
-<hr>
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">■  手机上好看的电子书（ePub版）■ 手机、电脑打开方法，请看这里！</a></b></h1>
 <hr>
+
+<h1 align="center"><b>真相小花</b></h1>
+
+  <p></p>
+
+  <div>
+    <ul>
+      <li> ■ 真相小花提供最真实、及时的真相视频、音频和电子书 
+      <p></p></li>
+      <li> ■突破网络封锁访问真相小花， <a href="https://git.io/goal">https://git.io/goal</a>。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等 
+      <p></p></li>
+
+      </b>
+    </ul>
+      </div>
