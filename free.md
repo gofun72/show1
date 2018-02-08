@@ -23,7 +23,7 @@
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
-爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
+<b>爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
 
 对于WinXP是 C:\Documents and Settings\All Users\Documents\iPPOTV
 win7以上是 C:\Users\Public\Documents\iPPOTV
@@ -364,12 +364,10 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
   <h4>2. 超高强度加密、提高安全性</h4>
  
-
 <p>无界浏览对原来的系统作了重新设计，克服了以上的缺点，建立了一整套代理技术平台，连接了遍布全世界的代理器资源，以有限资源支持大量用户访问。</p>
  
 <p>从无界漫游3.0 开始，无界产品采用最先进的加密技术保证数据传输过程中的安全性。无界浏览 在无界现有的先进加密上进一步加强了安全性，其加密程度超过金融行业所使用的加密标准https。</p>
  
-
 <h4>3. 支持https 通道</h4>
 
 <p class="p1">无界浏览支持https 通道。用户可通过无界浏览 访问https 网站。https是目前互联网使用的标准加密通道，因为https 内容本来就是加密的，所以通过无界浏览 ，用户的数据会被双层加密。</p>
@@ -532,7 +530,15 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 注：iNTD TV只能用于Android 3.0以上操作系统，在Android 2.X 操作系统系统上可能不能正常运行。
 
+</b>
 <hr>
 
 
 
+
+
+<hr>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
+
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">■  手机上好看的电子书（ePub版）■ 手机、电脑打开方法，请看这里！</a></b></h1>
+<hr>
