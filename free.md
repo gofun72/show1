@@ -535,9 +535,9 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">更多无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">■  手机上好看的电子书（ePub版）■ 手机、电脑打开方法，请看这里！</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">■  手机上好看的电子书（ePub版）■ 手机、电脑打开方法，请这里下载！</a></b></h1>
 <hr>
 
 <h1 align="center"><b>真相小花</b></h1>
