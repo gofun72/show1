@@ -548,7 +548,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</b></h1>
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</a></b></h1>
 
 iNTD TV ver. 2.1.12 有以下两个apk，安装和使用说明如下。
 
