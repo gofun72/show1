@@ -14,4 +14,4 @@
 <b><li>歡迎了解 神韻</b>
 <li> 神韻藝術團官網 https://zh-tw.shenyunperformingarts.org/ (需透过翻墙软件) 
 <h1>【神韵2018世界巡演预告片】<h1>
-<img src="img/sy-IP-orange-0205.jpg">
+<img src="img/sy-IP-orange-0208.jpg">
