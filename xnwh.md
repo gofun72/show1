@@ -1,4 +1,6 @@
 <h1 align="center"><b>重要節目預告</b></h1>
+
+<img src="img/18.jpg" width="890">
 <h1 align="center"><b>新唐人對大陸特別播出2018年全球華人新年晚會</b></h1>
 <h1 align="center"><b>新唐人元宵節對大陸播出2018年全球華人新年晚會</b></h1>
 
