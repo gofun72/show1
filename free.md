@@ -1,5 +1,63 @@
 <IMG SRC="img/free-2.png" width=880><br>
 
+ <div align="center">
+   <h1>突破封锁看世界 翻墙请先下软件</h1>
+   <table class="fangqian">
+      <tbody><b>
+        <tr><b>
+          <td width="230"></td>
+          <td width="330">
+            安卓
+          </td>
+          <td width="330">
+            桌机
+          </td>
+        </tr>
+        <tr>
+          <td>
+            自由门
+          </td>
+          <td>
+            <a href="https://git.io/fgma">安卓版</a>
+          </td>
+         <td>
+            <a href="https://git.io/fgm">专业版</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            无界
+          </td><td>
+            <a href="https://git.io/v6836">无界一点通</a>
+          </td>
+         <td>
+            <a href="https://git.io/vEJlj">无界浏览</a>
+          </td>
+        </tr>
+       <tr>
+          <td>
+            爱博
+          </td>
+         <td></td>
+          <td>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">爱博电视</a>
+          </td>
+        </tr>
+       <tr>
+          <td>
+            iNTDTV
+          </td>
+          <td>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true">iNTDTV</a>
+          </td>
+          <td><//td>
+        </tr><b>
+      </tbody>
+    </table>
+  </div>
+
+
+
 <table  width="800">
 <tr>
 	<td><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="img/U4.1.jpg" width="455"></td>
