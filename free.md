@@ -51,7 +51,7 @@
             <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true">iNTDTV</a>
           </td>
           <td><//td>
-        </tr><b>
+        </tr></b>
       </tbody>
     </table>
   </div>
