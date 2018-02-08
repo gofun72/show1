@@ -19,7 +19,28 @@
 </tr>
 </table>
 <hr>
-	
+<h1 align="center"><b>爱博电视PC版-iPPOTV Ver.12（0944C）</b></h1>
+
+<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
+
+爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
+
+对于WinXP是 C:\Documents and Settings\All Users\Documents\iPPOTV
+win7以上是 C:\Users\Public\Documents\iPPOTV
+
+另外，右键点击iPPOTV桌面图标，选择属性，也可以看到iPPOTV文件夹的位置。
+
+爱博电视在中国大陆，使用的人越多，突破封锁效果越好，请大家广传爱博电视， 共同突破网路封锁。 
+
+如果拿不到频道列表，而又不是防火墙设置问题，请用海外邮箱，给 ippotv.abcd@gmail.com发一封电子邮件，主题为abcd, 以获得新的结点文件。 由于封锁严重，有时会出现点击频道列表没有反应的情况，此时可以试一试播放 不同的频道，如果都没有反应，请关闭 iPPOTV等十几分钟后再打开。 
+
+需要最新版本的爱博电视软件，可通过动态网、无界等翻墙软件登录爱博电视网站 www.starp2p.com下载;或发封电子邮件给ippotv2011@gmail.com，主题为1234，十分钟左右即可收到回复。 如有技术问题，可发邮件给： support@starp2p.com 
+
+MD5:06ec9c7e71f92f19b4a4703abd63c563<br>
+SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
+
+<hr>
+
 <h1 align="center"><b>无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。</b></h1>
 
 安装"无界一点通"测试版：
@@ -88,29 +109,5 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
 
 <hr>
 
-<h1 align="center"><b>爱博电视PC版-iPPOTV Ver.12（0944C）</b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
-
-绿色版爱博电视 Ver.12（0944c）主要对安装程序做了改进，安装软件即便是在光 盘上依然可以双击和安装。0944c还可以分辨不同网络状态，有利于更流畅播放。 
-
-0944c与0944b是兼容的，如果用户能正常使用0944b就不必升级至0944c， 0944b也 不会自动升级至0944c。 
-
-与0944b类似，0944c也有可能被误报为病毒。目前最有效的解决办法是我们直接与 杀病毒软件商家联系，要求他们测试我们的软件。也请大家及时反馈软件被误报为 病毒的情况。相关帖子请发到如下网页： viewtopic.php?f=75&t=196825 
-
-爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
-
-对于WinXP是 C:\Documents and Settings\All Users\Documents\iPPOTV
-win7以上是 C:\Users\Public\Documents\iPPOTV
-
-另外，右键点击iPPOTV桌面图标，选择属性，也可以看到iPPOTV文件夹的位置。
-
-爱博电视在中国大陆，使用的人越多，突破封锁效果越好，请大家广传爱博电视， 共同突破网路封锁。 
-
-如果拿不到频道列表，而又不是防火墙设置问题，请用海外邮箱，给 ippotv.abcd@gmail.com发一封电子邮件，主题为abcd, 以获得新的结点文件。 由于封锁严重，有时会出现点击频道列表没有反应的情况，此时可以试一试播放 不同的频道，如果都没有反应，请关闭 iPPOTV等十几分钟后再打开。 
-
-需要最新版本的爱博电视软件，可通过动态网、无界等翻墙软件登录爱博电视网站 www.starp2p.com下载;或发封电子邮件给ippotv2011@gmail.com，主题为1234，十分钟左右即可收到回复。 如有技术问题，可发邮件给： support@starp2p.com 
-
-MD5:06ec9c7e71f92f19b4a4703abd63c563<br>
-SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
